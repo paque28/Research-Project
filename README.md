@@ -1,10 +1,10 @@
 # Research-Project
 Reduction of Bias with SVM
 
-## These experiments are part of a research project to reduce biases in Machine Learning using Support Vector Machines
-## A neural network was also created to add an additional label to a large data set of images.
-## The dataset contains biases in gender as well as within age groups
-## The distribution of gender is approximately 60/40 with more samples of males than females.
+# These experiments are part of a research project to reduce biases in Machine Learning using Support Vector Machines
+# A neural network was also created to add an additional label to a large data set of images.
+# The dataset contains biases in gender as well as within age groups
+# The distribution of gender is approximately 60/40 with more samples of males than females.
 
 
 1. Neural network for hair label:
